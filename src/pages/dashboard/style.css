@@ -1,3 +1,7 @@
+.sidebar-link.active{
+    background: dodgerblue;
+}
+
 .header-link.active {
     text-decoration: underline;
     color: #f3725b;

@@ -1,0 +1,12 @@
+.guruh-bars.active{
+    color: #a95e5e;
+    border-bottom: 2px solid #a95e5e;
+}
+
+.guruh-bars{
+    font-size: 18px;
+    color: #000;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor: pointer;
+}
